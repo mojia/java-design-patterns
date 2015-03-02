@@ -1,10 +1,10 @@
-target
-.metadata
-.settings
+logs
+web/logs/
+.gitignore
+*.iml
+.idea*
 .classpath
 .project
-*.class
-# Package Files #
-*.jar
-*.war
-*.ear
+target
+.worksheet/
+.cache
